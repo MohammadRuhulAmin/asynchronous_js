@@ -18,7 +18,6 @@ const taskThree = ()=>{
     },8000)
 }
 
-
 const taskFour = ()=>{
     setTimeout(()=>{
         console.log("Task Four");
@@ -26,8 +25,8 @@ const taskFour = ()=>{
 }
 
 
+
 taskOne();
 taskTwo();
 taskThree();
 taskFour();
-
